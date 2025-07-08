@@ -1,0 +1,14 @@
+{
+    "name": "Birthday Countdown App",
+    "short_name": "BdayApp",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffe6f0",
+    "theme_color": "#ff66b2",
+    "icons": [{
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+  }
+  
